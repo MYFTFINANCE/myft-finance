@@ -1,2 +1,0 @@
-# myft-finance
-myft-finance
